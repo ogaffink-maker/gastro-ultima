@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gastro Ultima — Каталог и прайс-лист HoReCa оборудования</title>
+    <!-- Google Fonts: Outfit (headings) & Inter (body text) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <!-- FontAwesome for Premium Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Premium Header -->
+    <header class="app-header">
+        <div class="header-container">
+            <div class="brand-section">
+                <img src="logo.jpg" alt="Gastro Ultima Logo" class="brand-logo" id="brandLogo">
+                <div class="brand-text">
+                    <span class="brand-name">Gastro Ultima</span>
+                    <span class="brand-tagline">Профессиональное оборудование для HoReCa</span>
+                </div>
+            </div>
+            
+            <div class="contact-section">
+                <div class="contact-item">
+                    <i class="fa-solid fa-phone contact-icon"></i>
+                    <div class="contact-info">
+                        <span class="contact-label">Телефон</span>
+                        <a href="tel:+77020230000" class="contact-value" id="phoneLink">8 702 023 00 00</a>
+                    </div>
+                </div>
+                <div class="contact-item">
+                    <i class="fa-solid fa-envelope contact-icon"></i>
+                    <div class="contact-info">
+                        <span class="contact-label">Почта</span>
+                        <a href="mailto:andamassov@yahoo.com" class="contact-value" id="emailLink">andamassov@yahoo.com</a>
+                    </div>
+                </div>
+                <button class="print-btn" id="printBtn">
+                    <i class="fa-solid fa-print"></i> Печать прайса (PDF)
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero / Intro -->
+    <section class="hero-section">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h1>Каталог оборудования из Китая</h1>
+            <p>Оптовые закупки профессионального кухонного оборудования, посуды и нейтральной мебели по прямому курсу <strong>1 CNY = 73 KZT</strong></p>
+        </div>
+    </section>
+
+    <!-- Main Workspace Container -->
+    <main class="app-main">
+        <!-- Control Bar (Filters and Search) -->
+        <div class="control-bar">
+            <!-- Search Input -->
+            <div class="search-wrapper">
+                <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                <input type="text" id="searchInput" placeholder="Поиск по названию, характеристикам или коду..." autocomplete="off">
+                <button id="clearSearchBtn" class="clear-search-btn"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+
+            <!-- Categories Tabs -->
+            <div class="categories-tabs-container">
+                <div class="categories-tabs" id="categoriesTabs">
+                    <button class="tab-btn active" data-category="all">
+                        <i class="fa-solid fa-border-all"></i> Все товары <span class="badge" id="count-all">0</span>
+                    </button>
+                    <button class="tab-btn" data-category="thermal">
+                        <i class="fa-solid fa-fire"></i> Тепловое <span class="badge" id="count-thermal">0</span>
+                    </button>
+                    <button class="tab-btn" data-category="refrigeration">
+                        <i class="fa-solid fa-snowflake"></i> Холодильное <span class="badge" id="count-refrigeration">0</span>
+                    </button>
+                    <button class="tab-btn" data-category="electromechanical">
+                        <i class="fa-solid fa-gears"></i> Электромеханика <span class="badge" id="count-electromechanical">0</span>
+                    </button>
+                    <button class="tab-btn" data-category="bar">
+                        <i class="fa-solid fa-mug-hot"></i> Бар и Кофе <span class="badge" id="count-bar">0</span>
+                    </button>
+                    <button class="tab-btn" data-category="neutral">
+                        <i class="fa-solid fa-kitchen-set"></i> Нейтральное <span class="badge" id="count-neutral">0</span>
+                    </button>
+                    <button class="tab-btn" data-category="tableware">
+                        <i class="fa-solid fa-plate-wheat"></i> Посуда <span class="badge" id="count-tableware">0</span>
+                    </button>
+                    <button class="tab-btn" data-category="other">
+                        <i class="fa-solid fa-box-open"></i> Прочее <span class="badge" id="count-other">0</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Sorting & Stats Bar -->
+            <div class="stats-bar">
+                <div class="results-count" id="resultsCount">Найдено: 0 товаров</div>
+                <div class="sorting-wrapper">
+                    <label for="sortSelect">Сортировка:</label>
+                    <select id="sortSelect">
+                        <option value="default">По умолчанию</option>
+                        <option value="price-asc">Сначала дешевле</option>
+                        <option value="price-desc">Сначала дороже</option>
+                        <option value="name-asc">По названию (А-Я)</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Product Grid -->
+        <div class="products-grid" id="productsGrid">
+            <!-- Dynamic products will be rendered here -->
+            <div class="loading-state">
+                <i class="fa-solid fa-spinner fa-spin loading-icon"></i>
+                <p>Загрузка каталога товаров...</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+        <div class="footer-container">
+            <div class="footer-brand">
+                <span class="footer-title">Gastro Ultima</span>
+                <p class="footer-desc">Прямые поставки профессионального оборудования из Китая в Казахстан для отелей, ресторанов и кафе (HoReCa).</p>
+            </div>
+            <div class="footer-contacts">
+                <span class="footer-section-title">Контакты</span>
+                <p><i class="fa-solid fa-phone"></i> +7 (702) 023-00-00</p>
+                <p><i class="fa-solid fa-envelope"></i> andamassov@yahoo.com</p>
+            </div>
+            <div class="footer-info">
+                <span class="footer-section-title">Информация</span>
+                <p>Расчетный курс: 1 CNY = 73 KZT</p>
+                <p>Все цены указаны без учета НДС и доставки.</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 Gastro Ultima. Все права защищены. Разработано для HoReCa в Казахстане.</p>
+        </div>
+    </footer>
+
+    <!-- Image Lightbox Modal -->
+    <div class="lightbox-modal" id="lightboxModal">
+        <span class="close-lightbox" id="closeLightbox">&times;</span>
+        <img class="lightbox-content" id="lightboxImg" alt="Увеличенное изображение">
+        <div class="lightbox-caption" id="lightboxCaption"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
