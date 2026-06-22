@@ -304,3 +304,4 @@ function getNounDeclension(number, one, two, many) {
     }
     return many;
 }
+
