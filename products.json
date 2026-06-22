@@ -496,7 +496,7 @@
   {
     "id": 39,
     "name_zh": "揭盖式洗碗机",
-    "name_ru": "Dishwasher by hand",
+    "name_ru": "Посудомоечная машина купольного типа",
     "category": "other",
     "size": "700*825*1490",
     "unit": "PCS",
@@ -509,7 +509,7 @@
   {
     "id": 40,
     "name_zh": "单大门风冷冷冻柜",
-    "name_ru": "Single door air-cooled freezer",
+    "name_ru": "Морозильный шкаф однодверный с воздушным охлаждением",
     "category": "refrigeration",
     "size": "700*800*1980",
     "unit": "PCS",
@@ -522,7 +522,7 @@
   {
     "id": 41,
     "name_zh": "单大门风冷冷藏柜",
-    "name_ru": "Single door air-cooled refrigerator",
+    "name_ru": "Холодильный шкаф однодверный с воздушным охлаждением",
     "category": "refrigeration",
     "size": "700*800*1980",
     "unit": "PCS",
@@ -535,7 +535,7 @@
   {
     "id": 42,
     "name_zh": "双头电磁炉",
-    "name_ru": "Double-burner induction cooktop",
+    "name_ru": "Плита индукционная двухконфорочная",
     "category": "other",
     "size": "800*510*180",
     "unit": "PCS",
@@ -548,7 +548,7 @@
   {
     "id": 43,
     "name_zh": "四抽风冷冷藏工作柜",
-    "name_ru": "4. Exhaust air cooling refrigeration work cabinet",
+    "name_ru": "Холодильный стол с 4 выдвижными ящиками",
     "category": "refrigeration",
     "size": "1200*600*800",
     "unit": "PCS",
@@ -561,7 +561,7 @@
   {
     "id": 44,
     "name_zh": "四抽冷藏工作台",
-    "name_ru": "4. Exhaust air cooling refrigeration work cabinet",
+    "name_ru": "Холодильный стол с 4 выдвижными ящиками",
     "category": "refrigeration",
     "size": "1000*600*800",
     "unit": "PCS",
@@ -574,7 +574,7 @@
   {
     "id": 45,
     "name_zh": "台式煮面炉",
-    "name_ru": "Tabletop noodle stove",
+    "name_ru": "Настольная макароноварка",
     "category": "thermal",
     "size": "600*650",
     "unit": "PCS",
@@ -587,7 +587,7 @@
   {
     "id": 46,
     "name_zh": "四头电煲仔炉",
-    "name_ru": "A four-burner electric cooker",
+    "name_ru": "Четырехконфорочная электрическая плита",
     "category": "other",
     "size": "800*800*800",
     "unit": "PCS",
@@ -600,7 +600,7 @@
   {
     "id": 47,
     "name_zh": "加厚不锈钢收餐车",
-    "name_ru": "Thickened stainless steel food truck",
+    "name_ru": "Усиленная тележка для сбора посуды из нержавеющей стали",
     "category": "other",
     "size": "950*550*950",
     "unit": "SET",
@@ -613,7 +613,7 @@
   {
     "id": 48,
     "name_zh": "四抽风冷冷藏柜",
-    "name_ru": "4. Exhaust air cooling refrigeration work cabinet",
+    "name_ru": "Холодильный шкаф с 4 выдвижными ящиками",
     "category": "refrigeration",
     "size": "1000*600*800",
     "unit": "PCS",
@@ -626,7 +626,7 @@
   {
     "id": 49,
     "name_zh": "低温速冻柜",
-    "name_ru": "Cryogenic freezers",
+    "name_ru": "Шкаф шоковой заморозки (низкотемпературный)",
     "category": "refrigeration",
     "size": "800*670*900",
     "unit": "PCS",
@@ -639,7 +639,7 @@
   {
     "id": 50,
     "name_zh": "六层热风循环炉",
-    "name_ru": "Six-layer hot air circulation furnace",
+    "name_ru": "Конвекционная печь 6-уровневая с горячим обдувом",
     "category": "other",
     "size": "900*1200*850",
     "unit": "PCS",
@@ -652,7 +652,7 @@
   {
     "id": 51,
     "name_zh": "冷藏展示柜",
-    "name_ru": "Refrigerated display case",
+    "name_ru": "Холодильная витрина настольная",
     "category": "refrigeration",
     "size": "702*568*686",
     "unit": "PCS",
@@ -665,7 +665,7 @@
   {
     "id": 52,
     "name_zh": "四片华夫炉",
-    "name_ru": "Four-slice waffle oven",
+    "name_ru": "Вафельница на 4 порции",
     "category": "thermal",
     "size": "355*265*240",
     "unit": "PCS",
@@ -678,7 +678,7 @@
   {
     "id": 53,
     "name_zh": "电圆饼机",
-    "name_ru": "Electric Round Cake Machine",
+    "name_ru": "Электрическая блинница",
     "category": "other",
     "size": "360*390*180",
     "unit": "PCS",
@@ -691,7 +691,7 @@
   {
     "id": 54,
     "name_zh": "压扒机",
-    "name_ru": "Press machine",
+    "name_ru": "Прижимной контактный гриль",
     "category": "other",
     "size": "310*350*280",
     "unit": "PCS",
@@ -704,7 +704,7 @@
   {
     "id": 55,
     "name_zh": "沙拉水吧台+上架",
-    "name_ru": "Salad water bar on the shelves",
+    "name_ru": "Салат-бар с надстройкой",
     "category": "other",
     "size": "2000*700*850+600",
     "unit": "PCS",
@@ -717,7 +717,7 @@
   {
     "id": 56,
     "name_zh": "沙拉工作台带上开门",
-    "name_ru": "Salad workbench with open door",
+    "name_ru": "Салатный охлаждаемый стол с распашной дверью",
     "category": "other",
     "size": "1200*700*800",
     "unit": "PCS",
@@ -730,7 +730,7 @@
   {
     "id": 57,
     "name_zh": "沙拉风冷工作台带大理石",
-    "name_ru": "Salad Air coolingworktop with marble",
+    "name_ru": "Салатный охлаждаемый стол с мраморной столешницей",
     "category": "other",
     "size": "1200*700*800+300",
     "unit": "PCS",
@@ -743,7 +743,7 @@
   {
     "id": 58,
     "name_zh": "台式风冷沙拉台",
-    "name_ru": "Tabletop air-cooled salad table",
+    "name_ru": "Настольный охлаждаемый салат-бар",
     "category": "neutral",
     "size": "1200*395*225",
     "unit": "PCS",
@@ -756,7 +756,7 @@
   {
     "id": 59,
     "name_zh": "立式电扒炉",
-    "name_ru": "Vertical electric grill",
+    "name_ru": "Гриль-плита электрическая напольная",
     "category": "thermal",
     "size": "700*800*800",
     "unit": "PCS",
@@ -769,7 +769,7 @@
   {
     "id": 60,
     "name_zh": "双头半自动咖啡机",
-    "name_ru": "Double-head semi-automatic coffee machine",
+    "name_ru": "Кофемашина двухгруппная полуавтоматическая",
     "category": "bar",
     "size": "817*502*452",
     "unit": "PCS",
@@ -782,7 +782,7 @@
   {
     "id": 61,
     "name_zh": "单头半自动咖啡机",
-    "name_ru": "Single-head semi-automatic coffee machine",
+    "name_ru": "Кофемашина одногруппная полуавтоматическая",
     "category": "bar",
     "size": "290*418*430",
     "unit": "PCS",
@@ -795,7 +795,7 @@
   {
     "id": 62,
     "name_zh": "不锈钢美式咖啡机",
-    "name_ru": "Stainless steel Americano coffee maker",
+    "name_ru": "Кофеварка капельная из нержавеющей стали (Американо)",
     "category": "bar",
     "size": "2001：330",
     "unit": "PCS",
@@ -808,7 +808,7 @@
   {
     "id": 63,
     "name_zh": "电动磨豆机",
-    "name_ru": "Electric grinder",
+    "name_ru": "Кофемолка электрическая",
     "category": "electromechanical",
     "size": "tl022",
     "unit": "PCS",
@@ -821,7 +821,7 @@
   {
     "id": 64,
     "name_zh": "吧台开水器",
-    "name_ru": "Bar water boiler",
+    "name_ru": "Водонагреватель для бара проточный",
     "category": "bar",
     "size": "50L",
     "unit": "PCS",
@@ -834,7 +834,7 @@
   {
     "id": 65,
     "name_zh": "商用微波炉",
-    "name_ru": "Commercial microwave ovens",
+    "name_ru": "СВЧ-печь коммерческая",
     "category": "thermal",
     "size": "42L",
     "unit": "PCS",
@@ -847,7 +847,7 @@
   {
     "id": 66,
     "name_zh": "密封服务车",
-    "name_ru": "Sealed service carts",
+    "name_ru": "Тележка-шпилька закрытая",
     "category": "neutral",
     "size": "1040*510*970",
     "unit": "PCS",
@@ -1120,7 +1120,7 @@
   {
     "id": 87,
     "name_zh": "",
-    "name_ru": "Open dishwasher 2 Two complimentary cup baskets",
+    "name_ru": "Посудомоечная машина купольного типа (в комплекте 2 кассеты)",
     "category": "other",
     "size": "800*820*1470",
     "unit": "PCS",
@@ -1133,7 +1133,7 @@
   {
     "id": 88,
     "name_zh": "",
-    "name_ru": "Dual temperature high-pressure faucet",
+    "name_ru": "Смеситель для мойки с душирующим устройством",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1146,7 +1146,7 @@
   {
     "id": 89,
     "name_zh": "",
-    "name_ru": "Single star belt bran collection hole +100",
+    "name_ru": "Стол с моечной ванной и отверстием для отходов",
     "category": "other",
     "size": "1800*700*850",
     "unit": "PCS",
@@ -1159,7 +1159,7 @@
   {
     "id": 90,
     "name_zh": "",
-    "name_ru": "Three plate freezer ·-35°-40°C",
+    "name_ru": "Шкаф шоковой заморозки на 3 уровня (-35°C...-40°C)",
     "category": "refrigeration",
     "size": "",
     "unit": "PCS",
@@ -1172,7 +1172,7 @@
   {
     "id": 91,
     "name_zh": "",
-    "name_ru": "meat grinder",
+    "name_ru": "Мясорубка электрическая профессиональная",
     "category": "electromechanical",
     "size": "479*420*416",
     "unit": "PCS",
@@ -1185,7 +1185,7 @@
   {
     "id": 92,
     "name_zh": "",
-    "name_ru": "inch slicer",
+    "name_ru": "Слайсер профессиональный",
     "category": "electromechanical",
     "size": "530*490*460",
     "unit": "PCS",
@@ -1198,7 +1198,7 @@
   {
     "id": 93,
     "name_zh": "",
-    "name_ru": "Handheld Blender",
+    "name_ru": "Погружной ручной блендер",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1211,7 +1211,7 @@
   {
     "id": 94,
     "name_zh": "",
-    "name_ru": "Sand ice machine 2L",
+    "name_ru": "Блендер профессиональный 2 л (для коктейлей и смузи)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1224,7 +1224,7 @@
   {
     "id": 95,
     "name_zh": "",
-    "name_ru": "shredder 3L",
+    "name_ru": "Куттер / измельчитель 3 л",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1237,7 +1237,7 @@
   {
     "id": 96,
     "name_zh": "",
-    "name_ru": "Electric oven with cabinet holder",
+    "name_ru": "Жарочный шкаф электрический на подставке",
     "category": "thermal",
     "size": "350*700*920",
     "unit": "PCS",
@@ -1250,7 +1250,7 @@
   {
     "id": 97,
     "name_zh": "",
-    "name_ru": "Electric powder furnace cabinet holder",
+    "name_ru": "Макароноварка электрическая на подставке",
     "category": "other",
     "size": "350*700*920",
     "unit": "PCS",
@@ -1263,7 +1263,7 @@
   {
     "id": 98,
     "name_zh": "",
-    "name_ru": "Double cylinder electric blast furnace cabinet holder",
+    "name_ru": "Фритюрница двухсекционная на подставке",
     "category": "other",
     "size": "800*900*920",
     "unit": "PCS",
@@ -1289,7 +1289,7 @@
   {
     "id": 100,
     "name_zh": "",
-    "name_ru": "Lift type surface furnace",
+    "name_ru": "Гриль-Саламандра бесконтактный с регулировкой высоты",
     "category": "other",
     "size": "450*480*500",
     "unit": "PCS",
@@ -1302,7 +1302,7 @@
   {
     "id": 101,
     "name_zh": "",
-    "name_ru": "Hand sink with faucet +100",
+    "name_ru": "Рукомойник консольный со смесителем",
     "category": "neutral",
     "size": "600*600*800",
     "unit": "PCS",
@@ -1315,7 +1315,7 @@
   {
     "id": 102,
     "name_zh": "",
-    "name_ru": "Single way warm dish cabinet",
+    "name_ru": "Тепловой шкаф для подогрева тарелок",
     "category": "other",
     "size": "1500*700*850",
     "unit": "PCS",
@@ -1328,7 +1328,7 @@
   {
     "id": 103,
     "name_zh": "",
-    "name_ru": "Single door black wine cabinet",
+    "name_ru": "Винный шкаф однодверный черный",
     "category": "other",
     "size": "598*690*1670",
     "unit": "PCS",
@@ -1341,7 +1341,7 @@
   {
     "id": 104,
     "name_zh": "",
-    "name_ru": "Beef maturation cabinet",
+    "name_ru": "Шкаф для вызревания мяса (Dry Age)",
     "category": "other",
     "size": "700*750*2000",
     "unit": "PCS",
@@ -1354,7 +1354,7 @@
   {
     "id": 105,
     "name_zh": "",
-    "name_ru": "Four head induction cooker cabinet holder 800*800 *4",
+    "name_ru": "Плита индукционная 4-конфорочная на подставке",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1367,7 +1367,7 @@
   {
     "id": 106,
     "name_zh": "",
-    "name_ru": "safe",
+    "name_ru": "Сейф",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1380,7 +1380,7 @@
   {
     "id": 107,
     "name_zh": "",
-    "name_ru": "scale 30KG",
+    "name_ru": "Весы настольные электронные до 30 кг",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1393,7 +1393,7 @@
   {
     "id": 108,
     "name_zh": "",
-    "name_ru": "scale 5KG",
+    "name_ru": "Весы кухонные электронные до 5 кг",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1406,7 +1406,7 @@
   {
     "id": 109,
     "name_zh": "",
-    "name_ru": "weighbridge 300KG",
+    "name_ru": "Весы товарные напольные до 300 кг",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1419,7 +1419,7 @@
   {
     "id": 110,
     "name_zh": "",
-    "name_ru": "Silver Boston Blender",
+    "name_ru": "Шейкер Бостон серебряный",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1432,7 +1432,7 @@
   {
     "id": 111,
     "name_zh": "",
-    "name_ru": "inches",
+    "name_ru": "Щипцы барные для льда",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1445,7 +1445,7 @@
   {
     "id": 112,
     "name_zh": "",
-    "name_ru": "Ice Hammer",
+    "name_ru": "Мадлер коктейльный",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1458,7 +1458,7 @@
   {
     "id": 113,
     "name_zh": "",
-    "name_ru": "Four sided ice cone",
+    "name_ru": "Стрейнер для коктейлей",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1471,7 +1471,7 @@
   {
     "id": 114,
     "name_zh": "",
-    "name_ru": "Lemon press",
+    "name_ru": "Соковыжималка-пресс для цитрусовых ручная",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1484,7 +1484,7 @@
   {
     "id": 115,
     "name_zh": "",
-    "name_ru": "Small measuring cup 20-30cc",
+    "name_ru": "Джиггер малый (мерный стакан) 20/30 мл",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1497,7 +1497,7 @@
   {
     "id": 116,
     "name_zh": "",
-    "name_ru": "Medium measuring cup 20-40cc",
+    "name_ru": "Джиггер средний 20/40 мл",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1510,7 +1510,7 @@
   {
     "id": 117,
     "name_zh": "",
-    "name_ru": "Large measuring cup 25-50cc",
+    "name_ru": "Джиггер большой 25/50 мл",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1523,7 +1523,7 @@
   {
     "id": 118,
     "name_zh": "",
-    "name_ru": "304 304 ice granule set 6+ 6-piece pack+ice clip",
+    "name_ru": "Набор кубиков для льда из стали 304 (6 шт. + щипцы)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1536,7 +1536,7 @@
   {
     "id": 119,
     "name_zh": "",
-    "name_ru": "strainer",
+    "name_ru": "Сито для коктейлей (стрейнер хавторн)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1549,7 +1549,7 @@
   {
     "id": 120,
     "name_zh": "",
-    "name_ru": "chopping board *2/*1/*1 Red*2/Green*1/Whit e*1",
+    "name_ru": "Набор разделочных досок (2 красных, 1 зеленая, 1 белая)",
     "category": "other",
     "size": "48*33*2",
     "unit": "PCS",
@@ -1562,7 +1562,7 @@
   {
     "id": 121,
     "name_zh": "",
-    "name_ru": "tweezers 20cm",
+    "name_ru": "Пинцет кулинарный 20 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1575,7 +1575,7 @@
   {
     "id": 122,
     "name_zh": "",
-    "name_ru": "Small non- magnetic ice clip 6",
+    "name_ru": "Щипцы для льда немагнитные",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1588,7 +1588,7 @@
   {
     "id": 123,
     "name_zh": "",
-    "name_ru": "fruit knife 28cm",
+    "name_ru": "Нож для фруктов 28 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1601,7 +1601,7 @@
   {
     "id": 124,
     "name_zh": "",
-    "name_ru": "Sharpening Stick",
+    "name_ru": "Мусат для заточки ножей",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1614,7 +1614,7 @@
   {
     "id": 125,
     "name_zh": "",
-    "name_ru": "grindstone",
+    "name_ru": "Точильный камень",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1627,7 +1627,7 @@
   {
     "id": 126,
     "name_zh": "",
-    "name_ru": "Chicken bone scissors",
+    "name_ru": "Ножницы для разделки птицы",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1640,7 +1640,7 @@
   {
     "id": 127,
     "name_zh": "",
-    "name_ru": "Double bottom frying pan 36cm",
+    "name_ru": "Сковорода с двойным дном 36 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1653,7 +1653,7 @@
   {
     "id": 128,
     "name_zh": "",
-    "name_ru": "Double bottom frying pan 22cm",
+    "name_ru": "Сковорода с двойным дном 22 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1666,7 +1666,7 @@
   {
     "id": 129,
     "name_zh": "",
-    "name_ru": "Double bottom frying pan 28cm",
+    "name_ru": "Сковорода с двойным дном 28 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1679,7 +1679,7 @@
   {
     "id": 130,
     "name_zh": "",
-    "name_ru": "Single handle juice pot 150*70",
+    "name_ru": "Сотейник профессиональный с ручкой 1.2 л (150х70)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1692,7 +1692,7 @@
   {
     "id": 131,
     "name_zh": "",
-    "name_ru": "Single handle juice pot 180*80",
+    "name_ru": "Сотейник профессиональный с ручкой 2.0 л (180х80)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1705,7 +1705,7 @@
   {
     "id": 132,
     "name_zh": "",
-    "name_ru": "Single handle juice pot 210*93",
+    "name_ru": "Сотейник professional с ручкой 3.2 л (210х93)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1718,7 +1718,7 @@
   {
     "id": 133,
     "name_zh": "",
-    "name_ru": "frying pan 200*45",
+    "name_ru": "Сковорода профессиональная 20 см (200х45)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1731,7 +1731,7 @@
   {
     "id": 134,
     "name_zh": "",
-    "name_ru": "frying pan 240*47",
+    "name_ru": "Сковорода профессиональная 24 см (240х47)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1744,7 +1744,7 @@
   {
     "id": 135,
     "name_zh": "",
-    "name_ru": "frying pan 260*48",
+    "name_ru": "Сковорода профессиональная 26 см (260х48)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1757,7 +1757,7 @@
   {
     "id": 136,
     "name_zh": "",
-    "name_ru": "frying pan 280*49",
+    "name_ru": "Сковорода профессиональная 28 см (280х49)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1770,7 +1770,7 @@
   {
     "id": 137,
     "name_zh": "",
-    "name_ru": "VACUUM PACKAGING MACHINE 260",
+    "name_ru": "Вакуумный упаковщик настольный 260",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1783,7 +1783,7 @@
   {
     "id": 138,
     "name_zh": "",
-    "name_ru": "thermometer",
+    "name_ru": "Термометр кухонный электронный с щупом",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1796,7 +1796,7 @@
   {
     "id": 139,
     "name_zh": "",
-    "name_ru": "infrared thermometer",
+    "name_ru": "Инфракрасный пирометр (бесконтактный термометр)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1809,7 +1809,7 @@
   {
     "id": 140,
     "name_zh": "",
-    "name_ru": "timer",
+    "name_ru": "Таймер кухонный цифровой",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1822,7 +1822,7 @@
   {
     "id": 141,
     "name_zh": "",
-    "name_ru": "Silicone shovel",
+    "name_ru": "Лопатка силиконовая термостойкая",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1835,7 +1835,7 @@
   {
     "id": 142,
     "name_zh": "",
-    "name_ru": "Butter Spreader /Small",
+    "name_ru": "Шпатель для масла малый",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1848,7 +1848,7 @@
   {
     "id": 143,
     "name_zh": "",
-    "name_ru": "Butter Spreader /medium size",
+    "name_ru": "Шпатель для масла средний",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1861,7 +1861,7 @@
   {
     "id": 144,
     "name_zh": "",
-    "name_ru": "Butter Spreader /Big",
+    "name_ru": "Шпатель для масла большой",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1874,7 +1874,7 @@
   {
     "id": 145,
     "name_zh": "",
-    "name_ru": "Solder egg beater 14/14 inches",
+    "name_ru": "Венчик металлический усиленный 14 дюймов",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1887,7 +1887,7 @@
   {
     "id": 146,
     "name_zh": "",
-    "name_ru": "Solder egg beater 18/18 inches",
+    "name_ru": "Венчик металлический усиленный 18 дюймов",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1900,7 +1900,7 @@
   {
     "id": 147,
     "name_zh": "",
-    "name_ru": "Solder egg beater 22/22 inches",
+    "name_ru": "Венчик металлический усиленный 22 дюймов",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1913,7 +1913,7 @@
   {
     "id": 148,
     "name_zh": "",
-    "name_ru": "clip",
+    "name_ru": "Зажим барный для пакетов",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1926,7 +1926,7 @@
   {
     "id": 149,
     "name_zh": "",
-    "name_ru": "304 304 medium key",
+    "name_ru": "Нарзанник / ключ для бутылок из стали 304",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1939,7 +1939,7 @@
   {
     "id": 150,
     "name_zh": "",
-    "name_ru": "Stainless steel spoon",
+    "name_ru": "Ложка сервировочная из нержавеющей стали",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1952,7 +1952,7 @@
   {
     "id": 151,
     "name_zh": "",
-    "name_ru": "15 MG -15 Forks",
+    "name_ru": "Набор десертных вилок (15 шт)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1965,7 +1965,7 @@
   {
     "id": 152,
     "name_zh": "",
-    "name_ru": "Dry ice bucket",
+    "name_ru": "Ведро для сухого льда",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1978,7 +1978,7 @@
   {
     "id": 153,
     "name_zh": "",
-    "name_ru": "Dehydrator",
+    "name_ru": "Дегидратор для овощей и фруктов (сушилка)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -1991,7 +1991,7 @@
   {
     "id": 154,
     "name_zh": "",
-    "name_ru": "Low temperature slow cooker",
+    "name_ru": "Аппарат низкотемпературной варки (Су-Вид)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2004,7 +2004,7 @@
   {
     "id": 155,
     "name_zh": "",
-    "name_ru": "Low temperature slow cooker with pot connection",
+    "name_ru": "Аппарат Су-Вид в комплекте с емкостью",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2017,7 +2017,7 @@
   {
     "id": 156,
     "name_zh": "",
-    "name_ru": "Three grid steel flavor box",
+    "name_ru": "Диспенсер для специй и ингредиентов 3-секционный",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2030,7 +2030,7 @@
   {
     "id": 157,
     "name_zh": "",
-    "name_ru": "water boiler 30L",
+    "name_ru": "Кипятильник заливной электрический 30 л",
     "category": "bar",
     "size": "",
     "unit": "PCS",
@@ -2043,7 +2043,7 @@
   {
     "id": 158,
     "name_zh": "",
-    "name_ru": "White storage box 33L",
+    "name_ru": "Контейнер пищевой белый 33 л",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2056,7 +2056,7 @@
   {
     "id": 159,
     "name_zh": "",
-    "name_ru": "Net oil barrier 180-180",
+    "name_ru": "Сетка жироулавливающая металлическая 180х180",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2069,7 +2069,7 @@
   {
     "id": 160,
     "name_zh": "",
-    "name_ru": "Kitchen more 40.7cm",
+    "name_ru": "Кухонная лопатка длинная 40.7 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2082,7 +2082,7 @@
   {
     "id": 161,
     "name_zh": "",
-    "name_ru": "Buckled fresh- keeping box 8153/2.5L",
+    "name_ru": "Герметичный пищевой контейнер 2.5 л",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2095,7 +2095,7 @@
   {
     "id": 162,
     "name_zh": "",
-    "name_ru": "Buckled fresh- keeping box 4L",
+    "name_ru": "Герметичный пищевой контейнер 4 л",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2108,7 +2108,7 @@
   {
     "id": 163,
     "name_zh": "",
-    "name_ru": "Sauce pot 12",
+    "name_ru": "Соусник металлический порционный 12 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2121,7 +2121,7 @@
   {
     "id": 164,
     "name_zh": "",
-    "name_ru": "Sauce pot 16",
+    "name_ru": "Соусник металлический порционный 16 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2134,7 +2134,7 @@
   {
     "id": 165,
     "name_zh": "",
-    "name_ru": "Sauce pot 24",
+    "name_ru": "Соусник металлический порционный 24 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2147,7 +2147,7 @@
   {
     "id": 166,
     "name_zh": "",
-    "name_ru": "Sauce pot 32",
+    "name_ru": "Соусник металлический порционный 32 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2160,7 +2160,7 @@
   {
     "id": 167,
     "name_zh": "",
-    "name_ru": "Kongpan decoction shovel /White",
+    "name_ru": "Кухонная лопатка с прорезями (белая)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2173,7 +2173,7 @@
   {
     "id": 168,
     "name_zh": "",
-    "name_ru": "Ice shovel 1 Number 1",
+    "name_ru": "Совок для льда малый (№1)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2186,7 +2186,7 @@
   {
     "id": 169,
     "name_zh": "",
-    "name_ru": "Ice shovel 2 Number 2",
+    "name_ru": "Совок для льда средний (№2)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2199,7 +2199,7 @@
   {
     "id": 170,
     "name_zh": "",
-    "name_ru": "Ice shovel 3 Number 3",
+    "name_ru": "Совок для льда большой (№3)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2212,7 +2212,7 @@
   {
     "id": 171,
     "name_zh": "",
-    "name_ru": "304 304 portions of pots 1/1*2",
+    "name_ru": "Гастроемкость из нержавеющей стали GN 1/1 глубина 20 мм",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2225,7 +2225,7 @@
   {
     "id": 172,
     "name_zh": "",
-    "name_ru": "304 304 portions of pots 1/1*10",
+    "name_ru": "Гастроемкость из нержавеющей стали GN 1/1 глубина 100 мм",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2238,7 +2238,7 @@
   {
     "id": 173,
     "name_zh": "",
-    "name_ru": "304 304 portions of pots 1/1*20",
+    "name_ru": "Гастроемкость из нержавеющей стали GN 1/1 глубина 200 мм",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2251,7 +2251,7 @@
   {
     "id": 174,
     "name_zh": "",
-    "name_ru": "304 304 portions of pots 1/2*2",
+    "name_ru": "Гастроемкость из нержавеющей стали GN 1/2 глубина 20 мм",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2264,7 +2264,7 @@
   {
     "id": 175,
     "name_zh": "",
-    "name_ru": "304 304 portions of pots 1/2*6.5",
+    "name_ru": "Гастроемкость из нержавеющей стали GN 1/2 глубина 65 мм",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2277,7 +2277,7 @@
   {
     "id": 176,
     "name_zh": "",
-    "name_ru": "Quantity basin 1/2*20",
+    "name_ru": "Гастроемкость из нержавеющей стали GN 1/2 глубина 200 мм",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2290,7 +2290,7 @@
   {
     "id": 177,
     "name_zh": "",
-    "name_ru": "Quantity basin 1/3*2",
+    "name_ru": "Гастроемкость из нержавеющей стали GN 1/3 глубина 20 мм",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2303,7 +2303,7 @@
   {
     "id": 178,
     "name_zh": "",
-    "name_ru": "Quantity basin 1/3*20",
+    "name_ru": "Гастроемкость из нержавеющей стали GN 1/3 глубина 200 мм",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2316,7 +2316,7 @@
   {
     "id": 179,
     "name_zh": "",
-    "name_ru": "Quantity basin 1/6*10",
+    "name_ru": "Гастроемкость из нержавеющей стали GN 1/6 глубина 100 мм",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2329,7 +2329,7 @@
   {
     "id": 180,
     "name_zh": "",
-    "name_ru": "Quantity basin 1/6*20",
+    "name_ru": "Гастроемкость из нержавеющей стали GN 1/6 глубина 200 мм",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2342,7 +2342,7 @@
   {
     "id": 181,
     "name_zh": "",
-    "name_ru": "Quantity basin 1/9*6.5",
+    "name_ru": "Гастроемкость из нержавеющей стали GN 1/9 глубина 65 мм",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2355,7 +2355,7 @@
   {
     "id": 182,
     "name_zh": "",
-    "name_ru": "Quantity basin 1/9*10",
+    "name_ru": "Гастроемкость из нержавеющей стали GN 1/9 глубина 100 мм",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2368,7 +2368,7 @@
   {
     "id": 183,
     "name_zh": "",
-    "name_ru": "PC PC number of pots 1/6*10",
+    "name_ru": "Гастроемкость поликарбонатная GN 1/6 глубина 100 мм",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2381,7 +2381,7 @@
   {
     "id": 184,
     "name_zh": "",
-    "name_ru": "304 304 three in one steel soup pot 24cm",
+    "name_ru": "Кастрюля из нержавеющей стали 304 с крышкой (24 см)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2394,7 +2394,7 @@
   {
     "id": 185,
     "name_zh": "",
-    "name_ru": "26cm",
+    "name_ru": "Кастрюля из нержавеющей стали 304 с крышкой (26 см)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2407,7 +2407,7 @@
   {
     "id": 186,
     "name_zh": "",
-    "name_ru": "28cm",
+    "name_ru": "Кастрюля из нержавеющей стали 304 с крышкой (28 см)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2420,7 +2420,7 @@
   {
     "id": 187,
     "name_zh": "",
-    "name_ru": "30cm",
+    "name_ru": "Кастрюля из нержавеющей стали 304 с крышкой (30 см)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2433,7 +2433,7 @@
   {
     "id": 188,
     "name_zh": "",
-    "name_ru": "ladle 300cc",
+    "name_ru": "Половник профессиональный 300 мл",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2446,7 +2446,7 @@
   {
     "id": 189,
     "name_zh": "",
-    "name_ru": "120cc",
+    "name_ru": "Половник профессиональный 120 мл",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2459,7 +2459,7 @@
   {
     "id": 190,
     "name_zh": "",
-    "name_ru": "70cc",
+    "name_ru": "Половник профессиональный 70 мл",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2472,7 +2472,7 @@
   {
     "id": 191,
     "name_zh": "",
-    "name_ru": "S S hook",
+    "name_ru": "Крюк S-образный металлический",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2485,7 +2485,7 @@
   {
     "id": 192,
     "name_zh": "",
-    "name_ru": "basin 16cm",
+    "name_ru": "Миска из нержавеющей стали 16 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2498,7 +2498,7 @@
   {
     "id": 193,
     "name_zh": "",
-    "name_ru": "18cm",
+    "name_ru": "Миска из нержавеющей стали 18 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2511,7 +2511,7 @@
   {
     "id": 194,
     "name_zh": "",
-    "name_ru": "20cm",
+    "name_ru": "Миска из нержавеющей стали 20 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2524,7 +2524,7 @@
   {
     "id": 195,
     "name_zh": "",
-    "name_ru": "Four sided planer 906T",
+    "name_ru": "Терка четырехсторонняя многофункциональная",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2537,7 +2537,7 @@
   {
     "id": 196,
     "name_zh": "",
-    "name_ru": "Longjiang Xianmu Wire Wiping Knife",
+    "name_ru": "Нож поварской для нарезки (шинковки)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2550,7 +2550,7 @@
   {
     "id": 197,
     "name_zh": "",
-    "name_ru": "rice cooker 10L",
+    "name_ru": "Рисоварка профессиональная 10 л",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2563,7 +2563,7 @@
   {
     "id": 198,
     "name_zh": "",
-    "name_ru": "Aluminum soup pot 57.5*28.5",
+    "name_ru": "Алюминиевый котел для супа (57.5х28.5)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2576,7 +2576,7 @@
   {
     "id": 199,
     "name_zh": "",
-    "name_ru": "Aluminum soup pot 40*25",
+    "name_ru": "Алюминиевый котел для супа (40х25)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2589,7 +2589,7 @@
   {
     "id": 200,
     "name_zh": "",
-    "name_ru": "Square meat hammer",
+    "name_ru": "Молоток для мяса квадратный двухсторонний",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2602,7 +2602,7 @@
   {
     "id": 201,
     "name_zh": "",
-    "name_ru": "Oil grid 10cm",
+    "name_ru": "Сито для процеживания масла 10 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2615,7 +2615,7 @@
   {
     "id": 202,
     "name_zh": "",
-    "name_ru": "Flat headed fish clip",
+    "name_ru": "Лопатка для рыбы (плоская)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2628,7 +2628,7 @@
   {
     "id": 203,
     "name_zh": "",
-    "name_ru": "Fruit planer 1629",
+    "name_ru": "Овощечистка малая профессиональная",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2641,7 +2641,7 @@
   {
     "id": 204,
     "name_zh": "",
-    "name_ru": "Cutting board rack",
+    "name_ru": "Подставка-держатель для разделочных досок",
     "category": "neutral",
     "size": "",
     "unit": "PCS",
@@ -2654,7 +2654,7 @@
   {
     "id": 205,
     "name_zh": "",
-    "name_ru": "304 Big Five Grid Plate 304",
+    "name_ru": "Тарелка секционная из нержавеющей стали (5 секций)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2667,7 +2667,7 @@
   {
     "id": 206,
     "name_zh": "",
-    "name_ru": "All wood hammer /Big",
+    "name_ru": "Деревянный молоток кухонный тендерайзер (большой)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2732,7 +2732,7 @@
   {
     "id": 211,
     "name_zh": "",
-    "name_ru": "Cabinet style four head pot stove 800*800*(800+12 0) *4",
+    "name_ru": "Плита индукционная напольная 4-конфорочная с надстройкой",
     "category": "thermal",
     "size": "",
     "unit": "PCS",
@@ -2745,7 +2745,7 @@
   {
     "id": 212,
     "name_zh": "",
-    "name_ru": "Hong Kong style single stir fry and single tail electric stir fry stove + 400",
+    "name_ru": "Плита вок (WOK) одноконфорочная с раковиной электрическая",
     "category": "thermal",
     "size": "1000*1100*800",
     "unit": "PCS",
@@ -2758,7 +2758,7 @@
   {
     "id": 213,
     "name_zh": "",
-    "name_ru": "Desktop electric blast furnace",
+    "name_ru": "Фритюрница настольная электрическая",
     "category": "other",
     "size": "600*650*475",
     "unit": "PCS",
@@ -2797,7 +2797,7 @@
   {
     "id": 216,
     "name_zh": "",
-    "name_ru": "rice cooker 19L",
+    "name_ru": "Рисоварка профессиональная 19 л",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2849,7 +2849,7 @@
   {
     "id": 220,
     "name_zh": "",
-    "name_ru": "Three head water boiler 60L",
+    "name_ru": "Кипятильник проточный трехкрановый 60 л",
     "category": "bar",
     "size": "",
     "unit": "PCS",
@@ -2862,7 +2862,7 @@
   {
     "id": 221,
     "name_zh": "",
-    "name_ru": "Luxury Japanese style right angle cake cabinet white/2M Imported compressor",
+    "name_ru": "Кондитерская витрина премиум (японский стиль, белая, 2 м)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2875,7 +2875,7 @@
   {
     "id": 222,
     "name_zh": "",
-    "name_ru": "Cutting machine TS-B",
+    "name_ru": "Овощерезательная машина профессиональная",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2888,7 +2888,7 @@
   {
     "id": 223,
     "name_zh": "",
-    "name_ru": "vegetable slicer",
+    "name_ru": "Овощерезка профессиональная ручная",
     "category": "electromechanical",
     "size": "615*250*590",
     "unit": "PCS",
@@ -2901,7 +2901,7 @@
   {
     "id": 224,
     "name_zh": "",
-    "name_ru": "inch semi- automatic slicer (Single motor)",
+    "name_ru": "Слайсер полуавтоматический профессиональный",
     "category": "electromechanical",
     "size": "490*390*380",
     "unit": "PCS",
@@ -2914,7 +2914,7 @@
   {
     "id": 225,
     "name_zh": "",
-    "name_ru": "Cling film machine JY450-1",
+    "name_ru": "Аппарат упаковки в пищевую пленку (Горячий стол)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2927,7 +2927,7 @@
   {
     "id": 226,
     "name_zh": "",
-    "name_ru": "Desktop vacuum machine",
+    "name_ru": "Вакуумный упаковщик настольный однокамерный",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2940,7 +2940,7 @@
   {
     "id": 227,
     "name_zh": "",
-    "name_ru": "Single row pancake cart 15 15th floor",
+    "name_ru": "Тележка-шпилька для подносов (15 уровней)",
     "category": "neutral",
     "size": "",
     "unit": "PCS",
@@ -2953,7 +2953,7 @@
   {
     "id": 228,
     "name_zh": "",
-    "name_ru": "soy milk maker",
+    "name_ru": "Аппарат для приготовления соевого молока",
     "category": "other",
     "size": "190*250*410",
     "unit": "PCS",
@@ -2966,7 +2966,7 @@
   {
     "id": 229,
     "name_zh": "",
-    "name_ru": "Soda water machine",
+    "name_ru": "Аппарат для газирования воды (сифон)",
     "category": "bar",
     "size": "",
     "unit": "PCS",
@@ -2979,7 +2979,7 @@
   {
     "id": 230,
     "name_zh": "",
-    "name_ru": "Mechanical version milkshake machine",
+    "name_ru": "Миксер для молочных коктейлей механический",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -2992,7 +2992,7 @@
   {
     "id": 231,
     "name_zh": "",
-    "name_ru": "Qihe Covered Wall Breaking Machine KS-10000",
+    "name_ru": "Блендер профессиональный с шумопоглощающим кожухом",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3005,7 +3005,7 @@
   {
     "id": 232,
     "name_zh": "",
-    "name_ru": "Stardust Microwave Oven 42L",
+    "name_ru": "СВЧ-печь профессиональная 42 л",
     "category": "thermal",
     "size": "",
     "unit": "PCS",
@@ -3018,7 +3018,7 @@
   {
     "id": 233,
     "name_zh": "",
-    "name_ru": "Professional juicer /LJ-900",
+    "name_ru": "Соковыжималка профессиональная центробежная",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3031,7 +3031,7 @@
   {
     "id": 234,
     "name_zh": "",
-    "name_ru": "Electric volcanic stone oven with cabinet holder +70",
+    "name_ru": "Гриль-лава электрический на подставке",
     "category": "thermal",
     "size": "400*900*850",
     "unit": "PCS",
@@ -3044,7 +3044,7 @@
   {
     "id": 235,
     "name_zh": "",
-    "name_ru": "Electric noodle stove with cabinet holder +70",
+    "name_ru": "Макароноварка электрическая на подставке",
     "category": "thermal",
     "size": "400*900*850",
     "unit": "PCS",
@@ -3057,7 +3057,7 @@
   {
     "id": 236,
     "name_zh": "",
-    "name_ru": "Desktop color mini freezer /Stainless steel color",
+    "name_ru": "Настольный морозильник из нержавеющей стали",
     "category": "refrigeration",
     "size": "800*590*560",
     "unit": "PCS",
@@ -3070,7 +3070,7 @@
   {
     "id": 237,
     "name_zh": "",
-    "name_ru": "dishwasher",
+    "name_ru": "Посудомоечная машина фронтальная",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3083,7 +3083,7 @@
   {
     "id": 238,
     "name_zh": "",
-    "name_ru": "grids",
+    "name_ru": "Кассета (сетка) для посудомоечной машины универсальная",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3096,7 +3096,7 @@
   {
     "id": 239,
     "name_zh": "",
-    "name_ru": "cutlery basket",
+    "name_ru": "Кассета для столовых приборов",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3109,7 +3109,7 @@
   {
     "id": 240,
     "name_zh": "",
-    "name_ru": "needles",
+    "name_ru": "Кассета со штырями для тарелок",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3122,7 +3122,7 @@
   {
     "id": 241,
     "name_zh": "",
-    "name_ru": "Semiautomatic coffee machine",
+    "name_ru": "Кофемашина полуавтоматическая профессиональная",
     "category": "bar",
     "size": "817*502*452",
     "unit": "PCS",
@@ -3135,7 +3135,7 @@
   {
     "id": 242,
     "name_zh": "",
-    "name_ru": "Bean grinder",
+    "name_ru": "Кофемолка профессиональная регулируемая",
     "category": "electromechanical",
     "size": "",
     "unit": "PCS",
@@ -3148,7 +3148,7 @@
   {
     "id": 243,
     "name_zh": "",
-    "name_ru": "Single layer workbench",
+    "name_ru": "Стол производственный одноярусный из нержавеющей стали",
     "category": "other",
     "size": "1500*600*800",
     "unit": "PCS",
@@ -3161,7 +3161,7 @@
   {
     "id": 244,
     "name_zh": "",
-    "name_ru": "Double layered workbench",
+    "name_ru": "Стол производственный двухъярусный (с нижней полкой)",
     "category": "other",
     "size": "1500*600*800",
     "unit": "PCS",
@@ -3174,7 +3174,7 @@
   {
     "id": 245,
     "name_zh": "",
-    "name_ru": "Three layer workbench",
+    "name_ru": "Стол производственный трехъярусный (с двумя полками)",
     "category": "other",
     "size": "1500*600*800",
     "unit": "PCS",
@@ -3187,7 +3187,7 @@
   {
     "id": 246,
     "name_zh": "",
-    "name_ru": "Three story service vehicle Equipped with four buckets",
+    "name_ru": "Тележка сервировочная 3-ярусная с навесными ведрами",
     "category": "other",
     "size": "1040*500*980",
     "unit": "PCS",
@@ -3200,7 +3200,7 @@
   {
     "id": 247,
     "name_zh": "",
-    "name_ru": "BB BB chair",
+    "name_ru": "Детский высокий стульчик для кормления",
     "category": "furniture",
     "size": "",
     "unit": "PCS",
@@ -3213,7 +3213,7 @@
   {
     "id": 248,
     "name_zh": "",
-    "name_ru": "Customized five layer disc rack 2000*500",
+    "name_ru": "Стеллаж металлический 5-ярусный для посуды 2000х500",
     "category": "neutral",
     "size": "",
     "unit": "PCS",
@@ -3226,7 +3226,7 @@
   {
     "id": 249,
     "name_zh": "",
-    "name_ru": "Four layer vegetable rack with sparse strips",
+    "name_ru": "Стеллаж 4-ярусный решетчатый для овощей",
     "category": "neutral",
     "size": "1200*500*1550",
     "unit": "PCS",
@@ -3239,7 +3239,7 @@
   {
     "id": 250,
     "name_zh": "",
-    "name_ru": "Double layer wall bracket /1.0",
+    "name_ru": "Полка настенная двухъярусная из нержавеющей стали",
     "category": "neutral",
     "size": "1800*300*400",
     "unit": "PCS",
@@ -3252,7 +3252,7 @@
   {
     "id": 251,
     "name_zh": "",
-    "name_ru": "ring 13*6cm",
+    "name_ru": "Кольцо кулинарное формовочное 13х6 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3265,7 +3265,7 @@
   {
     "id": 252,
     "name_zh": "",
-    "name_ru": "Electric steamer 40cm",
+    "name_ru": "Электрическая пароварка 40 см",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3278,7 +3278,7 @@
   {
     "id": 253,
     "name_zh": "",
-    "name_ru": "() Composite bottom frying pan (non stick) single handle 280*48",
+    "name_ru": "Сковорода профессиональная антипригарная с ручкой 280х48",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3304,7 +3304,7 @@
   {
     "id": 255,
     "name_zh": "",
-    "name_ru": "() Composite bottom frying pan (non stick) with double ears 400*55",
+    "name_ru": "Сковорода двухпорционная антипригарная с ушками 400х55",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3317,7 +3317,7 @@
   {
     "id": 256,
     "name_zh": "",
-    "name_ru": "chopping board *2/*2/*2 Red * 2/Yellow * 2/Green * 2",
+    "name_ru": "Набор разделочных досок (2 красных, 2 желтых, 2 зеленых)",
     "category": "other",
     "size": "48*33*2",
     "unit": "PCS",
@@ -3369,7 +3369,7 @@
   {
     "id": 260,
     "name_zh": "",
-    "name_ru": "immersion blender /Small",
+    "name_ru": "Ручной погружной блендер (малый)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3382,7 +3382,7 @@
   {
     "id": 261,
     "name_zh": "",
-    "name_ru": "Stainless steel insulated kettle",
+    "name_ru": "Термос-кувшин настольный из нержавеющей стали",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3395,7 +3395,7 @@
   {
     "id": 262,
     "name_zh": "",
-    "name_ru": "coffee machine 。Proxima F12/F27-10 ， ，。 Large touchscreen with Russian menu and icons. The Proxima F12/F2 series models are equipped with a 7-10 inch display screen that can show a list of beverages with illustrations and support Russian recipe settings",
+    "name_ru": "Кофемашина суперавтоматическая Proxima F12 / F27-10",
     "category": "bar",
     "size": "",
     "unit": "PCS",
@@ -3421,7 +3421,7 @@
   {
     "id": 264,
     "name_zh": "",
-    "name_ru": "Bar water heater",
+    "name_ru": "Водонагреватель для бара заливной",
     "category": "bar",
     "size": "",
     "unit": "PCS",
@@ -3434,7 +3434,7 @@
   {
     "id": 265,
     "name_zh": "",
-    "name_ru": "sets+9-piece kettle set 。 4-5， 。 Replacement mixing pot and matching lid. It is recommended to equip each mixer with 4-5 units, which can significantly improve work efficiency during peak usage periods",
+    "name_ru": "Сменный стакан с крышкой для профессионального блендера",
     "category": "electromechanical",
     "size": "",
     "unit": "SET",
@@ -3447,7 +3447,7 @@
   {
     "id": 266,
     "name_zh": "",
-    "name_ru": "（/） Contact grill (Panini/Chabata)",
+    "name_ru": "Гриль контактный прижимной (Панини/Чиабатта)",
     "category": "thermal",
     "size": "",
     "unit": "PCS",
@@ -3499,7 +3499,7 @@
   {
     "id": 270,
     "name_zh": "",
-    "name_ru": "Double-layer workbench SUS201",
+    "name_ru": "Стол производственный двухъярусный из стали SUS201",
     "category": "other",
     "size": "2000*700*850",
     "unit": "PCS",
@@ -3512,7 +3512,7 @@
   {
     "id": 271,
     "name_zh": "",
-    "name_ru": "Four door drawer cabinet",
+    "name_ru": "Стол-тумба с 4 выдвижными ящиками",
     "category": "other",
     "size": "1500*800*850",
     "unit": "PCS",
@@ -3525,7 +3525,7 @@
   {
     "id": 272,
     "name_zh": "",
-    "name_ru": "Desktop natural gas kiln oven 750*910 Yellow",
+    "name_ru": "Настольная газовая печь для пиццы 750х910 (желтая)",
     "category": "thermal",
     "size": "",
     "unit": "PCS",
@@ -3538,7 +3538,7 @@
   {
     "id": 273,
     "name_zh": "",
-    "name_ru": "：400*400 Right star belt left station Star pool size: 400 * 400 +100 SUS201",
+    "name_ru": "Моечная ванна левая со столом из стали SUS201 (400х400)",
     "category": "other",
     "size": "1150*760*800",
     "unit": "PCS",
@@ -3551,7 +3551,7 @@
   {
     "id": 274,
     "name_zh": "",
-    "name_ru": "Four head gas stove with cabinet holder +70",
+    "name_ru": "Плита газовая 4-конфорочная на подставке",
     "category": "thermal",
     "size": "700*700*850",
     "unit": "PCS",
@@ -3564,7 +3564,7 @@
   {
     "id": 275,
     "name_zh": "",
-    "name_ru": "Wall mounted washbasin +100",
+    "name_ru": "Рукомойник настенный из нержавеющей стали",
     "category": "other",
     "size": "400*400*800",
     "unit": "PCS",
@@ -3577,7 +3577,7 @@
   {
     "id": 276,
     "name_zh": "",
-    "name_ru": "(50) Flour/sugar container (50 liters)",
+    "name_ru": "Контейнер пластиковый для мусора и сыпучих продуктов (50 л)",
     "category": "other",
     "size": "605*480*435",
     "unit": "PCS",
@@ -3590,7 +3590,7 @@
   {
     "id": 277,
     "name_zh": "",
-    "name_ru": "18 Aluminum alloy 18-layer open cart frame 600*400",
+    "name_ru": "Тележка-шпилька 18-уровневая из алюминиевого сплава 600х400",
     "category": "neutral",
     "size": "470*620*1780",
     "unit": "PCS",
@@ -3603,7 +3603,7 @@
   {
     "id": 278,
     "name_zh": "",
-    "name_ru": "Four-tier shelf 201/1.2",
+    "name_ru": "Стеллаж 4-ярусный из стали SUS201 (толщина 1.2 мм)",
     "category": "neutral",
     "size": "1500*500*1550",
     "unit": "PCS",
@@ -3616,7 +3616,7 @@
   {
     "id": 279,
     "name_zh": "",
-    "name_ru": "salamander",
+    "name_ru": "Гриль-Саламандра электрический настольный",
     "category": "other",
     "size": "600*460*525",
     "unit": "PCS",
@@ -3629,7 +3629,7 @@
   {
     "id": 280,
     "name_zh": "",
-    "name_ru": "Panini press machine",
+    "name_ru": "Гриль контактный прижимной для панини",
     "category": "other",
     "size": "425*370*210",
     "unit": "PCS",
@@ -3642,7 +3642,7 @@
   {
     "id": 281,
     "name_zh": "",
-    "name_ru": "5 mixer 5L",
+    "name_ru": "Миксер планетарный настольный 5 л",
     "category": "electromechanical",
     "size": "411*338*264",
     "unit": "PCS",
@@ -3655,7 +3655,7 @@
   {
     "id": 282,
     "name_zh": "",
-    "name_ru": "（） Dual action silent frequency converter dough mixer (Infinite variable speed) 30L",
+    "name_ru": "Тестомес двухскоростной с вариатором скоростей 30 л",
     "category": "electromechanical",
     "size": "440*800*910",
     "unit": "PCS",
@@ -3668,7 +3668,7 @@
   {
     "id": 283,
     "name_zh": "",
-    "name_ru": "Pastry machine",
+    "name_ru": "Тестораскаточная машина напольная",
     "category": "other",
     "size": "1775*730*640",
     "unit": "PCS",
@@ -3681,7 +3681,7 @@
   {
     "id": 284,
     "name_zh": "",
-    "name_ru": "10 ( ) Hot air circulation oven 10 layers (updated version)",
+    "name_ru": "Конвекционная печь 10-уровневая (обновленная версия)",
     "category": "thermal",
     "size": "850*842*1014",
     "unit": "PCS",
@@ -3694,7 +3694,7 @@
   {
     "id": 285,
     "name_zh": "",
-    "name_ru": "Oven frame Oven frame",
+    "name_ru": "Подставка-держатель под конвекционную печь",
     "category": "thermal",
     "size": "850*800*650",
     "unit": "PCS",
@@ -3707,7 +3707,7 @@
   {
     "id": 286,
     "name_zh": "",
-    "name_ru": "Tray Retarder Proofer 2°C~5°C",
+    "name_ru": "Шкаф расстоечный охлаждаемый (климатический, 2°C~5°C)",
     "category": "other",
     "size": "610*930*2060",
     "unit": "PCS",
@@ -3720,7 +3720,7 @@
   {
     "id": 287,
     "name_zh": "",
-    "name_ru": "pan blast machine",
+    "name_ru": "Шкаф шоковой заморозки профессиональный",
     "category": "other",
     "size": "800*900*1640",
     "unit": "PCS",
@@ -3733,7 +3733,7 @@
   {
     "id": 288,
     "name_zh": "",
-    "name_ru": "Customized luxury air- cooled refrigerated floor cabinet With marble countertop",
+    "name_ru": "Кондитерский прилавок охлаждаемый с мраморной столешницей",
     "category": "refrigeration",
     "size": "1500*760*850",
     "unit": "PCS",
@@ -3746,7 +3746,7 @@
   {
     "id": 289,
     "name_zh": "",
-    "name_ru": "Star Pool +100",
+    "name_ru": "Моечная ванна односекционная из нержавеющей стали",
     "category": "other",
     "size": "400*760*850",
     "unit": "PCS",
@@ -3759,7 +3759,7 @@
   {
     "id": 290,
     "name_zh": "",
-    "name_ru": "layers pan cart 201/1.2",
+    "name_ru": "Тележка-шпилька для подносов из стали 201 (1.2 мм)",
     "category": "neutral",
     "size": "470*620*1750",
     "unit": "PCS",
@@ -3772,7 +3772,7 @@
   {
     "id": 291,
     "name_zh": "",
-    "name_ru": "+ + Open top dishwasher+built-in dispenser+dishwasher star sink +100",
+    "name_ru": "Купольная посудомоечная машина с дозатором и столами",
     "category": "neutral",
     "size": "680*680*1495, 700*700*800",
     "unit": "SET",
@@ -3785,7 +3785,7 @@
   {
     "id": 292,
     "name_zh": "",
-    "name_ru": "Single temperature high pressure faucet 201",
+    "name_ru": "Смеситель локтевой хирургический с высоким изливом",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3798,7 +3798,7 @@
   {
     "id": 293,
     "name_zh": "",
-    "name_ru": "Stainless steel orange juice machine 2000E-5",
+    "name_ru": "Соковыжималка для цитрусовых автоматическая 2000E-5",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3811,7 +3811,7 @@
   {
     "id": 294,
     "name_zh": "",
-    "name_ru": "Desktop vacuum machine 260",
+    "name_ru": "Вакуумный упаковщик настольный 260",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3824,7 +3824,7 @@
   {
     "id": 295,
     "name_zh": "",
-    "name_ru": "Medium sized square tube non-magnetic dining car Export packaging",
+    "name_ru": "Тележка сервировочная трехъярусная (немагнитная сталь)",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3837,7 +3837,7 @@
   {
     "id": 296,
     "name_zh": "",
-    "name_ru": "Jieli English version of weighing scale 150KG",
+    "name_ru": "Весы товарные электронные Jieli до 150 кг",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -3850,7 +3850,7 @@
   {
     "id": 297,
     "name_zh": "",
-    "name_ru": "20 Planetary mixer 20L",
+    "name_ru": "Миксер планетарный профессиональный 20 л",
     "category": "electromechanical",
     "size": "530*415*780",
     "unit": "PCS",
@@ -4786,7 +4786,7 @@
   {
     "id": 369,
     "name_zh": "",
-    "name_ru": "1M 1M solid wood bamboo ruler",
+    "name_ru": "Линейка измерительная деревянная (бамбуковая) 1 м",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -4838,7 +4838,7 @@
   {
     "id": 373,
     "name_zh": "",
-    "name_ru": "4L/2269C",
+    "name_ru": "Мармит супница электрическая 4 л",
     "category": "other",
     "size": "",
     "unit": "PCS",
@@ -4851,7 +4851,7 @@
   {
     "id": 374,
     "name_zh": "",
-    "name_ru": "6L/2270C",
+    "name_ru": "Мармит супница электрическая 6 л",
     "category": "other",
     "size": "",
     "unit": "PCS",

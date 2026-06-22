@@ -319,19 +319,13 @@ a {
 
 /* Tabs styling */
 .categories-tabs-container {
-    overflow-x: auto;
     margin-bottom: 25px;
-    scrollbar-width: none; /* Hide scrollbar Firefox */
-}
-
-.categories-tabs-container::-webkit-scrollbar {
-    display: none; /* Hide scrollbar Chrome/Safari */
 }
 
 .categories-tabs {
     display: flex;
     gap: 10px;
-    min-width: max-content;
+    flex-wrap: wrap;
     padding-bottom: 5px;
 }
 

@@ -133,6 +133,7 @@ function updateCategoryBadges() {
         bar: 0,
         neutral: 0,
         tableware: 0,
+        furniture: 0,
         other: 0
     };
     
